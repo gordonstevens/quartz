@@ -1,0 +1,1 @@
+Hey. These are my notes, written from my perspective.

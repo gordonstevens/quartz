@@ -15,7 +15,7 @@ const config: QuartzConfig = {
       
     },
     locale: "en-CA",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "notebook.ro4r.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {

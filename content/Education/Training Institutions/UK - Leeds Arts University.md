@@ -1,0 +1,1 @@
+Lots of [BA (Hons) and MA courses](https://www.leeds-art.ac.uk/), looks really good, but all in-person?

@@ -46,6 +46,7 @@ button#explorer {
   list-style: none;
   overflow: hidden;
   max-height: none;
+  font-size: 0.7rem;
   transition: max-height 0.35s ease;
   margin-top: 0.5rem;
 
@@ -109,7 +110,7 @@ svg {
     font-family: var(--headerFont);
 
     & span {
-      font-size: 0.95rem;
+      font-size: 0.75rem;
       display: inline-block;
       color: var(--secondary);
       font-weight: $semiBoldWeight;

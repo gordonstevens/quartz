@@ -1,0 +1,250 @@
+- Urban and rural living mindsets
+- Specialised shopping
+	- https://reverb.com/ca/ : Audio
+	- https://drop.com/home : Keyboards, audio, accessories (Mass purchasing power)
+- Devices and Computing
+	- Microphones (https://coutant.org/contents.html)
+	- SOCs (Raspberry Pi's, O-Droids)
+	- Video gaming (maybe yes, maybe no)
+	- USB-C monitors
+	- Key-grabbers, FlipperZero
+	- Inspection, snake cameras, and FLIR
+	- Laser keyboards
+	- Framework Laptops (https://frame.work/ca/en)
+	- LED strips
+	- Network Attached Storage (NAS)
+	- Home-brew routers
+	- Hand-held translators
+	- Sting Ray cellular interceptors, KingFish and dirtboxes: https://theintercept.com/2020/07/31/protests-surveillance-stingrays-dirtboxes-phone-tracking/
+	- Darknet
+		- Topology and creation by US Navy
+		- Onion services
+		- Indexes
+		- Legitimate usage
+	- Pocket Chip: Linux-powered with GPIO pinout, etc. (https://shop.pocketchip.co/)
+	- Destruct data eraser (USB)
+	- SRTYH listen device; listen through walls, measure wood and find leakages
+	- GPS trackers (Magnet, has SIM card, can be tracked Model GF-07)
+	- Night-vision googles; community safety
+	- Home-brew security systems
+	- Degoogled phone such as Pinephone or WiPhone (https://www.kickstarter.com/projects/2103809433/wiphone-a-phone-for-hackers-and-makers) Old kickstarter campaign. Quite useless these days but interesting none the less
+- Networking and telecommunications
+	- VoIP
+		- Softphones
+		- Services
+	- VLANs
+	- VPNs
+		- Commercial
+		- Roll your own
+- Programming
+	- IDEs
+		- VSCode: https://code.visualstudio.com/
+		- Code Blocks: https://www.codeblocks.org/
+		- Atom: https://atom-editor.cc/
+	- C-Family Languages: C, C++, C#, Go
+	- Python
+	- F#
+- Databases
+- Health
+	- 16:8 fastings (https://www.youtube.com/@ThomasDeLauerOfficial) can go to 19:5
+	- Exercise (endless ideas available)
+		- Excessive walking
+- Web development and design
+	- Typography
+	- 3D
+	- Regular HTML/CSS templates to save time
+	- WordPress
+		- Divi and Extra themes: https://www.elegantthemes.com/
+		- Hub and Hub AI themes: https://themeforest.net/user/liquidthemes/portfolio
+		- Avada theme: https://themeforest.net/item/avada-responsive-multipurpose-theme/2833226
+		- Astra theme: https://wpastra.com/
+		- Theme listings sites
+- Software reviews
+	- Password managers
+	- Recipe management software
+	- Research of creative tools by Adobe and competitors
+	- Academic reference software: Zotero, Mendeley, Endnote, Refworks by Proquest 
+- Drones
+	- By brand: DJI, Skydio, Autel (Dragonfish, plane VTOL drone)
+	- Smaller copies of real planes
+	- Enterprise versus prosumer
+	- FPS and roll your own
+- 3D Printing
+	- Various filaments and setups
+	- Usage (form versus function)
+	- Printing cement houses
+- Business
+	- Marketing
+		- Business cards
+			- NFC
+			- QR Code
+			- Design (materials, shapes, colours)
+		- Web
+		- Merchandise (Merch)
+			- Laser cut and engraving
+			- Shirts
+			- Other weird crap
+	- Supply Chain Management (SCM)
+- Gardening
+	- Vertical gardening in buildings
+	- Running trials on batches to find optimal wavelength of light for optimal plant growth
+	- Monitoring and Automation
+	- Winter gardening (Niki Jabbour from Nova Scotia)
+- Travel and culture
+	- Countries
+		- Ireland
+		- Wales
+		- Scotland
+		- China
+		- India
+		- Cambodia
+		- Vietnam
+		- Indonesia
+		- Philippines
+		- Belize
+	- Food
+		- Spicy / Not-spicy
+		- Gelato and ice-cream
+		- Smokers and BBQ
+		- Mocktails
+		- B52 and variants
+		- Honey
+- Shopping
+	- Alibaba/AliExpress
+	- Wish
+	- Temu
+	- Amazon
+	- StackSocial
+- Random stuff I come across
+	- Canned or bottled air (eg: sold from Canada to China)
+	- Stand-in service for traffic jams (service in Wuhan)
+	- Rental fake significant others (Companionship and conversation)
+	- China copying towns, villages, and cities of other countries. Layout of buildings/materials
+	- Unpopular numbers, 13, 4 in China (sounds like death)
+	- Creating beautiful rings from garbage
+	- Home-brew submarines
+	- Actual filming locations
+	- DIY
+- Housing
+	- Buying property overseas
+	- Tiny house
+	- Van life
+	- Looking at Zillow at expensive in Canada versus cheap in USA (Niagara Falls)
+	- Living near large water bodies
+- Locksmithing and Lockpicking
+	- Chronos lockpick
+	- Websites: https://www.lockpicking101.com/ and 
+- Recycling and environmental
+	- Creating houses out of bottles
+	- Earth homes
+- Archery
+	- Compound, traditional, crossbows
+	- Collapsible
+- Cats
+	- Breeds
+	- Behaviour
+- Canoeing and Kayaking
+- Camping
+	- Places
+	- While travelling to save money on lodgings
+- Ham radio
+- Rabble rousing/Controversial topics
+	- WikiLeaks: https://wikileaks.org/
+		- Pope Orders: https://wikileaks.org/popeorders/
+	- Weather modification
+		- High-frequency Active Auroral Research Program (HAARP)
+		- HAARP's successor
+- Teaching/Instruction/Pedagogy
+	- Culturally Responsive Pedagogy (https://www.kritik.io/blog-post/culturally-responsive-pedagogy)
+	- Universal Design for Learning
+	- Video capturing: OBS Studio (of course)
+	- Video editing/compositing: Blender, Openshot, Shotcut, Natron, KdenLive, Olive, Davinci Resolve
+- Information Science
+	- Information and Records Management
+	- Digital gardening
+		- Notion (Let's user data float). More focused on planning and organising
+		- Obsidian + Plugins. Quartz 4
+		- Dynalist and Logseq: dynalist.io/invite/K8hssA
+- Library Science
+- AI in academic research
+- Data Science
+	- Interdisciplinary field using: communications, statistics, mathematics, programming, computing, and business
+	- Data mining
+	- Data visualisation
+	- Data analysis
+	- Artificial Intelligence
+		- Academic Tools
+			- Research Rabbit FREE! Graphical interface and show connections. Similar to Connected Papers service
+			- Connected Papers https://www.connectedpapers.com/
+			- Scholarcy: Summarisation/synopsis tool for academics
+			- Paper Digest: Summarisation tool: https://www.paper-digest.com)
+			- Writefull: Write paraphrase tool using AI
+			- Paperpal: Language suggestions and paraphrase
+			- Biorender: Generate academic scientific images
+			- Manchester University Academic Phrasebank: Words, phrases, terminology, etc., ways to write in more academic way: https://www.phrasebank.manchester.ac.uk/
+			- ChatPDF
+			- Litmaps
+			- Scite
+			- Scispace
+			- GraphMaker
+		- General Tools
+			- OpenAI ChatGPT and Microsoft Copilot
+			- Google Gemini
+			- Midjourney
+			- Canva
+		- AI Categories (https://approachableai.com/branches-of-ai/)
+			- Machine learning
+				- Supervised learning
+				- Regression
+				- Classification
+				- Unsupervised learning
+				- Clustering
+				- Anomaly detection
+				- Reinforcement learning
+				- Deep Learning
+					- Generative Adversarial Networks (GANs)
+					- Transfer Learning
+				- Deep reinforcement learning
+			- Computer vision
+				- Image classification
+				- Image Processing (Medical imaging, satellite imagery, security systems)
+				- Object detection
+				- Image segmentation
+				- Facial recognition
+			- Natural Language Processing (NLP)
+				- Text classification
+				- Sentiment analysis
+				- Named entity recognition (NER)
+				- Part-of-Speech Tagging (POS)
+			- Robotics
+				- Autonomous robots
+				- Humanoid robots
+			- Neural Networks
+				- Convolutional Neural Networks (CNNs)
+				- Recurrent Neural Networks (RNNs)
+			- Evolutionary Computation
+				- Genetic algorithms and genetic programming
+			- Fuzzy logic
+			- Expert Systems
+			- Speech Recognition
+			- Decision Science (AI + Decision theory)
+			- Affective Computing (emotion detection and personalized user experiences)
+- Business Intelligence
+	- Interdisciplinary: data analysis, and management of business information
+		- Reporting, online analytical processing, analytics, dashboards, data mining, process mining, complex event processing, business performance management, benchmarking, text mining, predictive and prescriptive analytics
+- Geographic Information Science
+	- Geocomputation
+	- Geoinformatics
+		- Geographic Information Systems
+			- Uses a lot of GIS-enabled databases
+			- ArcGIS is the mainline commercial software
+			- QGIS: https://www.qgis.org/en/site/
+			- GRASS: https://grass.osgeo.org/
+	- Geomatics
+	- Geovisualisation
+	- Geographic Data Science
+	- Human Dynamics in Hybrid Physical-Virtual Worlds
+	- Quantum GIScience
+	- Urban planning
+		- Smart Cities Development
+	- Social and Environmental Impacts of Technological Innovations

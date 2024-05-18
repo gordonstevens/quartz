@@ -1,0 +1,3 @@
+
+### Vermillion-VR
+There is a website for painting in VR with a nice feature set, called [Vermillion-VR](https://vermillion-vr.com/). The software is delivered through [Steam](https://store.steampowered.com/) and at the present time is available for CAD26. The author is not to happy about NFTs as the minting process takes a [huge carbon footprint](https://vermillion-vr.com/faq/) apparently, but has no problem charging everyone more than what the software is worth.

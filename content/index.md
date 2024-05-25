@@ -14,6 +14,6 @@ Enjoy!
 [[Computing]]
 
 [[Education]]
-
+-> [[Attempt at Summary May 25 2024]]
 [[Language]]
 

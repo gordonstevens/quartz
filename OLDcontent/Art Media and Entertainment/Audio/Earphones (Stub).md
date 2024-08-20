@@ -1,0 +1,2 @@
+- Headphones ("Headgear") forums discussion and reviews: [Head-Fi](https://www.head-fi.org/)
+- [In-Ear Fidelity](https://crinacle.com/) shows wavelength ranges for so many headphones, etc., with Tone and Technical grades, status, ranking, signature, MSRP, and what setup.

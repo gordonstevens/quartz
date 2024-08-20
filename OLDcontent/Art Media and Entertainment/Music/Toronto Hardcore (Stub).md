@@ -1,0 +1,1 @@
+[Toronto Hardcore](https://torontohardcore.ca/) is a website with some interesting electronic hardcore music, and past parties. Not sure where I found out about it, but it was in my old bookmarks.

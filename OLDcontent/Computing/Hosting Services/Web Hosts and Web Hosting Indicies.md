@@ -1,0 +1,30 @@
+### Canadian Companies
+[Web Hosting Canada - WHC.ca](https://whc.ca/en) Canadian Web Host from Canada who rents servers from OVH in the [Beauharnois](https://en.wikipedia.org/wiki/Beauharnois,_Quebec) data centre. [Deals](https://whc.ca/deals) Meets conditions for Canadian-hosted data requirements. Runs on CloudLinux which is beautiful for getting things done. All relevant versions of PHP, WHM/cPanel, with SSH on dedicated servers. Also sells [Anycast DNS](https://whc.ca/anycast-dns) for distributed DNS services. Also has WordPress plans, and [shared hosting](https://whc.ca/canadian-web-hosting). Has cloud servers.
+
+[Canadian Web Hosting.com](https://www.canadianwebhosting.com/) They used to use deceptive tricks saying unlimited domains and the way it was worded assumed many accounts, now after many years have listed "Add-On Domains" which is the industry normal now. Based in British Columbia. They say they have [2 data centres](https://www.canadianwebhosting.com/company/datacentres) ay 151 Front Street Toronto and 555 West Hastings Street, which are two famous data centres in Canada. MAYBE they are better, but the initial advertising years ago brings up questions.
+
+[HostPapa](https://www.hostpapa.ca/) A Canadian company, direct competitor to WHC and CWH. Pricing is slightly upmarket, but I think if you can catch a service on a deal, it could be worth it. Not entirely sure if it is indeed hosting in Canada.
+### American Companies
+RamNode [cPanel Shared Hosting](https://ramnode.com/products/cpanel-hosting/) American, US and EU data centres, has two plans, Shared with 15GB/5USD per month, or Reseller with 100GB/9+USD per month. Usual CloudLinux setup. Has been around for some time now. Also hosts Virtual Machines.
+
+RackNerd Has an interesting offering, originally found on lowendstock.com, has some great deals on web hosting and Virtual Private Servers. [Looking Glass](http://lg-ny.racknerd.com/) [Special Promos](https://my.racknerd.com/index.php?rp=/store/special-promos) [Black Friday Landing Page](https://www.racknerd.com/BlackFriday/) [Black Friday 2023](https://my.racknerd.com/index.php?rp=/store/black-friday-2023) [New Year 2024](https://my.racknerd.com/index.php?rp=/store/new-year-2024) [Chinese New Year 2024](https://my.racknerd.com/index.php?rp=/store/chinese-new-year-2024)
+
+[BlueHost](https://www.bluehost.com/) for being the official webhost for WordPress for some time, you may think the quality would be good. The quality of marketing is good. In my experience the pings were not good, and this may have impacted SEO efforts. Had an odd cobbled together control panel experience, and chat support was useless. Pricing at the time was not the worst, but not the best. Middle-range everything kind of experience.
+
+[Digital Ocean](https://www.digitalocean.com/) also known as "DO" offers web hosting, VMs, storage, AI/ML, and more. When I signed up for GitHub Student Pack, DO came as an offer. I tried to signup with DO using the code, and DO said the code had already been used. I didn't like the correspondence and unwillingness to see the screenshots I provided, or to remedy the problem whatsoever. Essentially they said it had been used by someone and no free tier for you. Ok then, I have never used DO, nor will I. If they can't have a simple promo code working through a legitimate source, then fine, when something big goes wrong, "tough it's on you" attitude won't cut it. I'll shop elsewhere.
+
+[Vultr.com](https://www.vultr.com/) I assume a play on the word Vulture, very good offerings, and a direct competitor to Digital Ocean. Essentially most of Digital Ocean's services with added NVidia GPUs for AI/ML. This is a very premium service on truly expensive hardware. Nice touch. [Pricing](https://www.vultr.com/pricing/) is super easy to understand and has hourly pricing, as is the standard for these services
+
+[OVH](https://www.ovhcloud.com/en-ca/) is a huge company with tons of infrastructure, open pricing with no hidden fees, and a new data centre in Cambridge, Ontario which they are calling "Toronto Region" which is incorrect, but the company HQ is in France, so they don't know the [Greater Toronto Region](https://en.wikipedia.org/wiki/List_of_municipalities_in_the_Greater_Toronto_Area) is. However, electronically, it's fine, a good idea and is likely tied quite closely to 151 Front Street data centre and [TORiX](https://www.torix.ca/peers/) internet exchange. Services and support from OVH are excellent. High uptimes can be expected, and you get exactly what you pay for. Have some good [special offers](https://www.ovhcloud.com/en-ca/deals/) sometimes too.
+### Hosting Listing Services
+[LowEndStock.com](https://lowendstock.com/) Not sure why but the grid isn't showing up. Usually has a grid of CHEAP VPS deals. Also has a [deals page](https://lowendstock.com/deals/).
+
+[LowEndSpirit](https://lowendspirit.com/) Forum format website about offers and discussions about various companies. Mostly Virtual Private Servers, but some web stuff comes along. Also has [Wiki](https://lowendspirit.com/les-wiki) [Discord](https://lowendspirit.com/discussion/1594/les-discord-server-invite-come-and-shoot-the-sh-t) [YABS](https://lowendspirit.com/discussion/592/post-some-yabs-bench-here) ("Yet Another Benchmark") and huge [Provider List](https://lowendspirit.com/registered-providers).
+
+[LowEndBox](https://lowendbox.com/) has a better listing service than LowEndSpirit, and allows filtering by country or service.
+
+[WebHostingTalk](https://www.webhostingtalk.com/) has a large forum, covers everything from web to cloud to specialty markets like VoIP and game servers. Has an Industry Announcements section as well. Very popular.
+
+[vpsBoard](https://vpsboard.com/) Talk about VPSs of course but also web hosting, probably about 100k messages total, seems good!
+
+[VPSBenchmarks](https://www.vpsbenchmarks.com/) rates a lot of the popular VPS hosting services, including RackNerd, DigitalOcean, all of the major cloud providers, Linode, and more. Seems good!

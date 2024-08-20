@@ -12,11 +12,11 @@ import * as Plugin from "./quartz/plugins"
         header: "Schibsted Grotesk",
         body: "Source Sans Pro",
         code: "IBM Plex Mono",
-        NOTE using https://fontjoy.com/ to get font pairings
+        NOTE using https://fontjoy.com/ and https://www.vandelaydesign.com/google-font-pairings/ to get font pairings
 */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Gordon's Notebook",
+    pageTitle: "🪴 Notebook",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -30,9 +30,9 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Rokkitt",
-        body: "Merriweather",
-        code: "Quattrocento",
+        header: "Lustria",
+        body: "Source Sans Pro",
+        code: "Raleway",
       },
       colors: {
         lightMode: {

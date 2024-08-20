@@ -1,0 +1,25 @@
+
+### ADHD Websites
+- [ADDitude](https://www.additudemag.com/) Going 25 years, has alot of ADHD related articles, and has a magazine. Bookmarked article: [What I would never trade away](https://www.additudemag.com/slideshows/positives-of-adhd/)
+### ADHD Articles and Research
+#### ADHD in Psychology Today
+- Interesting Contributor, [Larry Maucieri Ph.D., ABPP-CN](https://www.psychologytoday.com/intl/contributors/larry-maucieri-phd-abpp-cn) has several articles including [ADHD Hyperfocus: What is it and how to use it](https://www.psychologytoday.com/intl/blog/the-distracted-couple/201411/adhd-hyperfocus-what-is-it-and-how-use-it), [Sugar and ADHD: A Bad Mix?](https://www.psychologytoday.com/intl/blog/the-distracted-couple/201606/sugar-and-adhd-bad-mix) and [What's in a Game: The Draw to Video Games in ADHD](https://www.psychologytoday.com/intl/blog/the-distracted-couple/201603/what-s-in-game-the-draw-video-games-in-adhd).
+#### ADHD on Medicalxpress
+- Medicalxpress: [Diet play key role in ADHD symptoms in children](https://medicalxpress.com/news/2022-05-diet-key-role-adhd-symptoms.html) Source material: [Fruit and vegetable intake is inversely associated with severity of inattention in a pediatric population with ADHD symptoms: the MADDY Study](https://www.tandfonline.com/doi/full/10.1080/1028415X.2022.2071805)
+- Medicalxpress: [Researchers link 27 genetic variants to ADHD](https://medicalxpress.com/news/2023-02-link-genetic-variants-adhd.html) Source material: [Genome-wide analyses of ADHD identify 27 risk loci, refine the genetic architecture and implicate several cognitive domains](https://www.nature.com/articles/s41588-022-01285-8)
+
+#### ADHD and Artificial Intelligence
+- Peer reviewed: [Machine learning in attention-deficit/hyperactivity disorder: new approaches toward understanding the neural mechanisms](https://www.nature.com/articles/s41398-023-02536-w)
+"Extensive studies have attempted to characterize ADHD in terms of neuropsychological performance, brain anatomy and functional responses, and genetic risk factors. Cognitive deficits in executive function, reaction time, vigilance, inhibition control, sustained attention, and working memory have been reported in ADHD. Neuroimaging studies using T1-weighted magnetic resonance imaging (MRI), functional MRI (fMRI), resting-state fMRI (rs-fMRI), and electroencephalogram (EEG) have reported widespread and inconsistent anatomical and functional alterations in children with ADHD, including frontal lobe, parietal lobe, temporal lobe, thalamus. Genome-wide association studies have also revealed several variants associated with ADHD. In addition, the treatment of ADHD shows inconsistent results, with evidence suggesting that 30% of ADHD patients respond poorly to the most common ADHD medication. The existing evidence suggests that ADHD may not have a single etiological source but rather a combined effect of multiple subtle anomalies. Such a complex etiology is difficult to detect using parametric statistical methods, and interactions between widespread alterations have not been successfully translated into clinical practice due to the limited capacities of conventional analytical methods." Pretty landmark article in the machine learning plus ADHD world.
+- Peer reviewed: [Diagnosing attention-deficit hyperactivity disorder (ADHD) using artificial intelligence: a clinical study in the UK](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10288489/)
+"Attention-deficit hyperactivity disorder (ADHD) is a neurodevelopmental disorder affecting a large percentage of the adult population. A series of ongoing efforts has led to the development of a hybrid AI algorithm (a combination of a machine learning model and a knowledge-based model) for assisting adult ADHD diagnosis, and its clinical trial currently operating in the largest National Health Service (NHS) for adults with ADHD in the UK."
+- [How AI tools like ChatGPT can combat ADHD paralysis](https://mashable.com/article/chatgpt-ai-and-adhd)
+- [Harvard Research Finds Link Between Fluoridated Water, ADHD & Mental Disorders on ARCHIVE.ORG](https://web.archive.org/web/20141221153937/https://www.collective-evolution.com/2014/03/05/harvard-research-finds-link-between-fluoridated-water-adhd-mental-disorders/)
+Cites: [Neurobehavioural effects of developmental toxicity](https://www.thelancet.com/journals/laneur/article/PIIS1474-4422(13)70278-3/fulltext), [# Study finds toxic chemicals linked to autism, ADHD on ARCHIVE.ORG](https://web.archive.org/web/20140217053730/http://www.smh.com.au/national/health/study-finds-toxic-chemicals-linked-to-autism-adhd-20140215-32snz.html), and [Fluoride Action Network](https://fluoridealert.org/)
+
+### ADHD Topics to look into
+- ADHD and depression
+- ADHD and learning disabilities
+- ADHD and diet
+- ADHD and abilities/contradictions
+- ADHD and medication: [ADDitude Magazine listing 2019](https://www.additudemag.com/adhd-medications-list-chart-stimulants-nonstimulants/)

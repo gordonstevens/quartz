@@ -239,6 +239,7 @@ function isFolderPath(fplike: string): boolean {
     fplike.endsWith("/") ||
     endsWith(fplike, "index") ||
     endsWith(fplike, "index.md") ||
+    endsWith(fplike, "index.htm") ||
     endsWith(fplike, "index.html")
   )
 }

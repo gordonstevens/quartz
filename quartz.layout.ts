@@ -17,16 +17,20 @@ export const sharedPageComponents: SharedLayout = {
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.Breadcrumbs(),
-    Component.ArticleTitle(),
-    Component.ContentMeta(),
-    Component.TagList(),
+    Component.Spacer(),
+    Component.DesktopOnly(Component.ArticleTitle()),
+    Component.Spacer(),
+    Component.DesktopOnly(Component.ContentMeta()),
+    Component.DesktopOnly(Component.TagList()),
   ],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer({
+    //Component.DesktopOnly(
+    Component.MobileOnly(Component.Spacer()),
+    Component.Explorer({
       mapFn: (node) => {
         // dont change name of root node
         if (node.depth > 0) {
@@ -38,12 +42,13 @@ export const defaultContentPageLayout: PageLayout = {
           }
         }
       },
-    })),
+    }),//),
+    Component.MobileOnly(Component.Spacer()),
   ],
   right: [
-    Component.Graph(),
+    Component.DesktopOnly(Component.Graph()),
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
+    Component.DesktopOnly(Component.Backlinks()),
   ],
 }
 

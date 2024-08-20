@@ -1,0 +1,5 @@
+Blogpost: [The 40 Top UX/UI Websites for Inspo, Learning, and Practice](https://blog.uxfol.io/ux-websites/)
+
+[Dribbble X UX Design Institute, Product Design Bundle](https://dribbble.com/product-design). Includes UX Diploma (US$3950) and UI Certificate (US$2400) for US$4500 as a package deal, from UX Design Institute. The UX Diploma is [university credit-rated](https://www.uxdesigninstitute.com/courses/ux-design) by [Glasgow Caledonian University](https://www.gcu.ac.uk/) (Scotland). The UX Design Institute is based in Ireland at UX Design Institute, [Digital Court, Rainsford Street, Dublin D08 R2YP](https://www.google.ca/maps/place/UX+Design+Institute/@53.3422987,-6.2822853,3a,60y,210.11h,85.6t/data=!3m6!1e1!3m4!1sAFpdG-8pLuv32HLZfEWuEQ!2e0!7i16384!8i8192!4m7!3m6!1s0x48670e9cebd2c301:0x7d19c1f6455b9e27!8m2!3d53.3420766!4d-6.2823363!10e5!16s%2Fg%2F11clrn1xth?coh=205409&entry=ttu).
+
+DesignLab blog post: [30 Best UX Design Blogs to Educate and Inspire You (Updated for 2024)](https://designlab.com/blog/top-ux-design-blogs)

@@ -44,8 +44,8 @@
 [FluentU - The Complete Guide to SRS Language Learning](https://www.fluentu.com/blog/learn/srs-spaced-repetition-language-learning/)
 ### Language Tools
 https://www.languagelist.org/
-
-
+https://www.17-minute-world-languages.com/
+https://www.masteranylanguage.com/c/l/o9ly8NM61/o/hp
 
 
 ### Hindi

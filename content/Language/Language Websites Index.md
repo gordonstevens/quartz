@@ -1,6 +1,6 @@
 ### Language Exchange
 [Interpals](https://www.interpals.net/)
-### Jobs
+### Teaching English Jobs
 [Dave's ESL Cafe](https://www.eslcafe.com/) Mainly jobs, started forever ago, circa 1995, was an early website even outside of the language realm. Also has resources now, forums, grammar lessons, idioms, lesson plans, phrasal verbs, slang, and quizzes.
 [Oxford Seminars](https://www.oxfordseminars.ca/esl-info/) [Teaching ESL in Thailand](https://www.oxfordseminars.ca/esl-info/teaching-esl-in-thailand)
 [Gigantic list of teaching websites](https://www.oxfordseminars.ca/teach-english-abroad/20000-jobs-resource.php)
@@ -19,18 +19,39 @@
 ### Multiple Languages
 [Omniglot](https://www.omniglot.com/) [Language Learning Tips](https://www.omniglot.com/language/index.htm)[Materials to study a language](https://www.omniglot.com/language/materials.htm) Extremely comprehensive, started 1998
 [Innovative Language.com](https://www.innovativelanguage.com/) Runs popular YouTube videos for [34 languages](https://www.innovativelanguage.com/online-language-courses), been around [18 years](https://www.innovativelanguage.com/about/ourstory) using natural language speakers, high quality!
-https://www.loecsen.com/en
-http://learn101.org/index.php
-https://ilanguages.org/index.php
-https://www.memrise.com/
-https://www.101languages.net/
-https://www.duolingo.com/
-https://www.fluentin3months.com/
-https://utalk.com/en/store
-https://flrmethod.com/
-https://en.bab.la/
+[Loecsen](https://www.loecsen.com/en)
+[Learn 101](http://learn101.org/index.php)
+[ilanguages](https://ilanguages.org/index.php)
+[Memrise](https://www.memrise.com/)
+[101 Languages](https://www.101languages.net/)
+[Duolingo](https://www.duolingo.com/)
+[Fluent in 3 Months](https://www.fluentin3months.com/)
+[uTalk](https://utalk.com/en/store)
+[FLR Method](https://flrmethod.com/)
+[Babla](https://en.bab.la/)
 [Language-Learners.org Forum Master List of resources](https://forum.language-learners.org/viewtopic.php?f=19&t=2900)
+[Language-Learners.org Free Language Learning Materials Courtesy of HathiTrust 450 resources in 57 languages](https://forum.language-learners.org/viewtopic.php?f=19&t=17596)](https://forum.language-learners.org/viewtopic.php?f=19&t=17596)
+### Language Teachers
+[italki](https://www.italki.com/)
+[Let's Language - Jenny Hu](https://letslanguage.com/)
+### English - General Interest
+[30 Words That Will Make You Instantly Sound Smarter - BestLife](https://bestlifeonline.com/words-to-sound-smarter/)
+[40 Things Only Older People Say - BestLife](https://bestlifeonline.com/things-old-people-say/)
+[List of countries where English is spoken](https://en.wikipedia.org/wiki/List_of_countries_and_territories_where_English_is_an_official_language)
+### Language Articles
+[FluentU - How to Train your Brain to Think in a Foreign Language](https://www.fluentu.com/blog/learn/thinking-in-a-foreign-language/)
+[FluentU - How to Learn a New Language Faster](https://www.fluentu.com/blog/learn/fastest-way-to-learn-a-new-language/)
+[FluentU - The Complete Guide to SRS Language Learning](https://www.fluentu.com/blog/learn/srs-spaced-repetition-language-learning/)
+### Language Tools
+https://www.languagelist.org/
+
+
+
+
 ### Hindi
 https://www.tripsavvy.com/common-but-often-misunderstood-hindi-words-1539489
-https://www.hindipod101.com/
-
+[HindiPod 101 - Excellent Hindi resource from Innovative Languages](https://www.hindipod101.com/)
+### Cantonese
+https://cantonese.ca/
+### Thai
+http://www.thai-language.com/

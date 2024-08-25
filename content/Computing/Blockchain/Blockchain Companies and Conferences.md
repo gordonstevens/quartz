@@ -40,3 +40,4 @@
 | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
 | [Shopify NFTs](https://help.shopify.com/en/manual/products/digital-service-product/nfts) | Shopify sells online stores, and they have support for NFTs, etc. |
 
+coinyep.com

@@ -6,6 +6,7 @@
 [Omniglot Italian Resources](https://www.omniglot.com/links/italian.php)
 [Reddit - immersion learning index](https://www.reddit.com/r/italianlearning/wiki/immersion/)
 [WessWess Web - ARCHIVE.ORG](https://web.archive.org/web/20200602155513/https://wessweb.info/index.php/Italian_Literature)
+[How to learn any language - Italian Language Profile](http://how-to-learn-any-language.com/e/languages/italian/index.html)
 ### Courses
 [Language Transfer - Italian](https://www.languagetransfer.org/free-courses-1#italian)
 FSI Language Courses [Yojik](https://fsi-languages.yojik.eu/languages/FSI/fsi-italian.html) [Darren Kenny](http://www.fsi-language-courses.net/fsi-italian-language-courses)  [Live Lingua](https://www.livelingua.com/project/fsi/Italian)  
@@ -253,8 +254,8 @@ Some comics titles: Alan Ford, Corto Maltese, La Compagnia della Forca, Dylan Do
 [http://wessweb.info/index.php/Italian_Studies_Web](http://wessweb.info/index.php/Italian_Studies_Web)  
 [https://www.reddit.com/r/italianlearning/wiki/immersion](https://www.reddit.com/r/italianlearning/wiki/immersion)  
 [https://www.omniglot.com/links/italian.php](https://www.omniglot.com/links/italian.php)  
-### Italian forums  
-[http://www.osservatoriocommunity.org/](http://www.osservatoriocommunity.org/)  
+### Italian forums
+[How to learn any language - Italiano](http://how-to-learn-any-language.com/forum/forum_topics.asp?FID=27)
 ### Corpora
 CoLFIS Corpus e Lessico di Frequenza dell’Italiano Scritto  
 [http://esploracolfis.sns.it/EsploraCoLFIS/](http://esploracolfis.sns.it/EsploraCoLFIS/)  

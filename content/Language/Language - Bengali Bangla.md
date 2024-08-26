@@ -1,11 +1,8 @@
 ### Bangla General Information
 [Viswayan](https://www.viswayan.com/)
-[Compilation of resources including some miscellaneous ones not listed here](https://www.alllanguageresources.com/learning-bengali/)
+[Compilation of resources](https://www.alllanguageresources.com/learning-bengali/)
 [WikiPedia - Bengali](https://en.wikipedia.org/wiki/Bengali_language)
 [Bangla - ARCHIVE.ORG](https://web.archive.org/web/20201122092253/http://www.betelco.com/bd/bangla/bangla.html)
-### Sources
-[Omniglot - Bengali](https://www.omniglot.com/writing/bengali.htm)
-[Language Learners' Forum - Bangla Bengali Resources](https://forum.language-learners.org/viewtopic.php?f=19&t=17279)
 ### Courses
 [101 Languages - Bengali](https://www.101languages.net/bengali/bengali-peace-corps-course/) 
 [Bengali Lesson](http://www.ukindia.com/zip/zben01.htm) 
@@ -19,6 +16,10 @@
 [Joy Language Services - Bangla GPA school](https://www.joylanguageindia.com/)
 [BangaliNET](https://www.bangalinet.com/learn_bangla.htm)
 [How to speak Bengali - Numbers by Dialect101com](https://www.youtube.com/watch?v=5iQtAKx8K40)
+[Ciil-ebooks - Bangla Course](http://www.ciil-ebooks.net/html/bbjbengali/contents.html)
+[Bangla for Germans - ARCHIVE.ORG](https://web.archive.org/web/20210417033731/http://crossasia-repository.ub.uni-heidelberg.de/4387/1/Lehrbuch_3.pdf)
+[wcomotion - Epar Bangla Opar Bangla: Bangla Across Borders!](https://els2.comotion.uw.edu/product/epar-bangla-opar-bangla-bangla-across-borders)
+[Banglapedia](https://bn.banglapedia.org/index.php/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8_%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE)
 ### Phrases
 [17 Minutes Languages - Bengali](https://www.17-minute-world-languages.com/en/bengali/)
 [myLanguages - Bengali Phrases](https://mylanguages.org/multimedia/bengali_audio_phrases.php)
@@ -91,11 +92,14 @@ Essential Everyday Bengali by Hanne Ruth Thompson
 [OmicronLab font list](http://www.omicronlab.com/bangla-fonts.html)
 [WAZU Japan's Gallery of Unicode Fonts - Bengali](http://www.wazu.jp/gallery/Fonts_Bengali.html)
 [Nongnu Free Bangla Font](http://www.nongnu.org/freebangfont/)
+[Avro Keyboard is free, phonetic, and pretty great (though the spellchecker is far from perfect)](https://www.omicronlab.com/avro-keyboard.html)
 ### Forums
 [r/bengalilanguage](https://www.reddit.com/r/bengalilanguage/)  
 ### Comics
 [Dhaka Comics](https://www.dhakacomics.com/)  
 ### Religious Material
 If you are familiar with the Bible, the Kitabbul Muqaddus is a 4-5th grade Musselmani Bangla translation. There's a free app of the same name that has the full text, audiobook, and spiritual songs. You can also find religious material for children, which works well as "third-culture" material for bridging contexts.
-### Other
-[Avro Keyboard is free, phonetic, and pretty great (though the spellchecker is far from perfect)](https://www.omicronlab.com/avro-keyboard.html)
+### Sources
+[Omniglot - Bengali](https://www.omniglot.com/writing/bengali.htm)
+[Language Learners' Forum - Bangla Bengali Resources](https://forum.language-learners.org/viewtopic.php?f=19&t=17279)
+[Language Learners' Forum - Central Institute of Indian Languages (CIIL) Courses Available for Download](https://forum.language-learners.org/viewtopic.php?f=19&t=16373)

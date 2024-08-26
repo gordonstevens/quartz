@@ -46,7 +46,8 @@
 https://www.languagelist.org/
 https://www.17-minute-world-languages.com/
 https://www.masteranylanguage.com/c/l/o9ly8NM61/o/hp
-
+### Forums
+[How to learn any language](http://how-to-learn-any-language.com/forum/default.asp)
 
 ### Hindi
 https://www.tripsavvy.com/common-but-often-misunderstood-hindi-words-1539489

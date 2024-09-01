@@ -56,3 +56,8 @@ https://www.tripsavvy.com/common-but-often-misunderstood-hindi-words-1539489
 https://cantonese.ca/
 ### Thai
 http://www.thai-language.com/
+
+### Vietnamese
+InterNations
+Facebook groups for expats
+nomad list
